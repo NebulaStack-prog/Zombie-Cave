@@ -1,6 +1,6 @@
 # Zombie Cave
 
-<img src="https://github.com/NebulaStack-prog/Jump-Cat/raw/main/IMG_20260701_020320_413.jpg" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Zombie-Cave/raw/main/ZombieCave.jpg" width="200" height="230">
 
 > Descend into zombie caves. Fight the horde, survive the darkness.
 
