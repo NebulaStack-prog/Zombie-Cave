@@ -5,7 +5,7 @@
 > Descend into zombie caves. Fight the horde, survive the darkness.
 
 ## 💻 Project Run
-- Download this file: [Zombie_Cave.c3p](Jump_Cat.c3p)
+- Download this file: [Zombie_Cave.c3p](ZC.c3p)
   
 - And open with Construct 3: [Link...](https://editor.construct.net)
 
