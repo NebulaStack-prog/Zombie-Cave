@@ -15,8 +15,8 @@
 - 🇺🇲  English version: [Documentation](JumpCat_EN.md)
   
 ## 📷 Screenshots
-![](Jump_Cat_1.png)
-![](Jump_Cat_3.png)
-![](Jump_Cat_2.png)
+![](ZC_1.png)
+![](ZC_2.png)
+![](ZC_3.png)
 
 © NESTIMS
